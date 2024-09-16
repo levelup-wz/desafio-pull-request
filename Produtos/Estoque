@@ -1,0 +1,31 @@
+using System;
+
+namespace Comex.Produtos
+{
+    public class Estoque
+    {
+        public int Capacidade { get; set; }
+        public int Ocupacao { get; set; }
+        public double Montante { get; set; }
+
+        public Estoque()
+        {
+            Capacidade = 1000;
+            Ocupacao = 0;
+            Montante = 0;
+        }
+
+        public void RegistraEntrada(Produto produto)
+        {
+            Capacidade -= produto.Estoque;
+            Ocupacao += produto.Estoque;
+            Montante += produto.ValorTotal();
+        }
+        public void RegistraSaida(Produto produto)
+        {
+            Capacidade += produto.Estoque;
+            Ocupacao -= produto.Estoque;
+            Montante -= produto.ValorTotal();
+        }
+    }
+}
