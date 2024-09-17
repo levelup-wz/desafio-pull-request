@@ -1,0 +1,15 @@
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\bin\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.exe
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\bin\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.deps.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\bin\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.runtimeconfig.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\bin\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\bin\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.AssemblyInfo.cs
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\refint\Semana2-Imprimir a soma dos números de 1 a 100.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\Semana2-Imprimir a soma dos números de 1 a 100.genruntimeconfig.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Semana2-Imprimir a soma dos números de 1 a 100\obj\Debug\net6.0\ref\Semana2-Imprimir a soma dos números de 1 a 100.dll

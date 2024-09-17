@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "semana2-Imprimir os números ÍMPARES de 1 a 100/1.0.0": {
+        "runtime": {
+          "semana2-Imprimir os números ÍMPARES de 1 a 100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semana2-Imprimir os números ÍMPARES de 1 a 100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

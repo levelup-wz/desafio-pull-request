@@ -1,0 +1,15 @@
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\bin\Debug\net6.0\Extra-Calcular equação de 2º grau.exe
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\bin\Debug\net6.0\Extra-Calcular equação de 2º grau.deps.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\bin\Debug\net6.0\Extra-Calcular equação de 2º grau.runtimeconfig.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\bin\Debug\net6.0\Extra-Calcular equação de 2º grau.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\bin\Debug\net6.0\Extra-Calcular equação de 2º grau.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.AssemblyInfo.cs
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\refint\Extra-Calcular equação de 2º grau.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\Extra-Calcular equação de 2º grau.genruntimeconfig.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular equação de 2º grau\obj\Debug\net6.0\ref\Extra-Calcular equação de 2º grau.dll

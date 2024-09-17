@@ -1,0 +1,15 @@
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.csproj.AssemblyReference.cache
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.AssemblyInfoInputs.cache
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.AssemblyInfo.cs
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.csproj.CoreCompileInputs.cache
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\bin\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.exe
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\bin\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.deps.json
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\bin\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.runtimeconfig.json
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\bin\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.dll
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\bin\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.pdb
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.dll
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\refint\Semana2-CalcularMédiaEAprovaçãoDaTurma.dll
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.pdb
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\Semana2-CalcularMédiaEAprovaçãoDaTurma.genruntimeconfig.cache
+C:\Users\alexoliveira\Desktop\Curso_Speed_\Curso1_CSharp-Aula6\Curso1_CSharp-Aula6\Semana2-CalcularMédiaEAprovaçãoDaTurma\obj\Debug\net6.0\ref\Semana2-CalcularMédiaEAprovaçãoDaTurma.dll

@@ -1,0 +1,15 @@
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\bin\Debug\net6.0\Extra-Calcular IMC.exe
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\bin\Debug\net6.0\Extra-Calcular IMC.deps.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\bin\Debug\net6.0\Extra-Calcular IMC.runtimeconfig.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\bin\Debug\net6.0\Extra-Calcular IMC.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\bin\Debug\net6.0\Extra-Calcular IMC.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.AssemblyInfo.cs
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\refint\Extra-Calcular IMC.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\Extra-Calcular IMC.genruntimeconfig.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Calcular IMC\obj\Debug\net6.0\ref\Extra-Calcular IMC.dll

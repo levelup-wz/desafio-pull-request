@@ -1,0 +1,15 @@
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\bin\Debug\net6.0\Extra-Cadastrar cliente.exe
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\bin\Debug\net6.0\Extra-Cadastrar cliente.deps.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\bin\Debug\net6.0\Extra-Cadastrar cliente.runtimeconfig.json
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\bin\Debug\net6.0\Extra-Cadastrar cliente.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\bin\Debug\net6.0\Extra-Cadastrar cliente.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.AssemblyInfo.cs
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\refint\Extra-Cadastrar cliente.dll
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.pdb
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\Extra-Cadastrar cliente.genruntimeconfig.cache
+C:\Users\alexs\source\repos\alexstok\laboratorio-c-sharp\Extra-Cadastrar cliente\obj\Debug\net6.0\ref\Extra-Cadastrar cliente.dll
